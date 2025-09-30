@@ -1,0 +1,10 @@
+autogen
+autogen-agentchat
+python-dotenv 
+autogen[gemini,retrievechat,lmm]
+
+autogen-ext
+autogen-core
+asyncio
+openai
+streamlit
